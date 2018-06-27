@@ -1,4 +1,4 @@
-# DeepLearningCompilers
+# Deep Learning Compilers/Optimizers
 
 List of high-performance, deep-learning-oriented IRs/compilers, in no particular order:
 
@@ -16,6 +16,6 @@ List of high-performance, deep-learning-oriented IRs/compilers, in no particular
 * TVM (DMLC): https://github.com/dmlc/tvm
 
 * Julia's Flux/DataFlow: https://github.com/MikeInnes/DataFlow.jl https://github.com/FluxML/Flux.jl
-  (Flux is a ML framework that uses DataFlow.jl)
+  (Flux is a ML framework that uses DataFlow.jl - not a lot of optimization happening yet, but has potential)
   
 * Glow (PyTorch/FaceBook):  https://github.com/pytorch/glow 
