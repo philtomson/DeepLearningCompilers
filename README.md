@@ -19,3 +19,9 @@ List of high-performance, deep-learning-oriented IRs/compilers/Optimizers in no 
   (Flux is a ML framework that uses DataFlow.jl - not a lot of optimization happening yet, but has potential)
   
 * Glow (PyTorch/FaceBook):  https://github.com/pytorch/glow 
+
+# General HPC graph/DAG compiler frameworks that could possibly be applied to deep learning:
+
+* NLAFET – Parallel Numerical Linear Algebra for Extreme Scale Systems: http://www.nlafet.eu/ 
+
+* OCR - Open Community Runtime (Intel): https://01.org/open-community-runtime
