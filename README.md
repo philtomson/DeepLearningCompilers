@@ -9,7 +9,7 @@ List of high-performance, deep-learning-oriented IRs/compilers, in no particular
 * DLVM (UIUC): http://dlvm.org/ (No Longer maintained)
 
 * Swift for Tensorflow (Google): https://github.com/tensorflow/swift 
-  DLVM maintainers moved on to this project
+  (DLVM maintainers moved on to this project)
 
 * nGraph (Intel): http://ngraph.nervanasys.com/docs/cpp/
 
