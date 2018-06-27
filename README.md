@@ -1,6 +1,6 @@
 # Deep Learning Compilers/Optimizers
 
-List of high-performance, deep-learning-oriented IRs/compilers, in no particular order:
+List of high-performance, deep-learning-oriented IRs/compilers/Optimizers in no particular order:
 
 * XLA (Google): https://www.tensorflow.org/performance/xla/
 
